@@ -1,9 +1,9 @@
 <div align="center">
   <img alt="ReDoc logo" src="https://raw.githubusercontent.com/centfinance/Community/main/media-pack/logo.png" width="400px" />
 
-  ### Cent Community
-  
 </div>
+
+<h1 align=center><code>Cent Community</code></h1>
 
 Welcome to Cent global community! 
 
