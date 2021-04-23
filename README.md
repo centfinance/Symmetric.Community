@@ -5,7 +5,7 @@
 
 <h1 align=center><code>Cent Community</code></h1>
 
-Welcome to Cent global community! 
+Welcome to Symmetric global community! 
 
 This guide is designed to help you learn what resources are available and get started contributing.
 
