@@ -3,7 +3,7 @@
 
 </div>
 
-<h1 align=center><code>Cent Community</code></h1>
+<h1 align=center><code>Symmetric Community</code></h1>
 
 Welcome to Symmetric global community! 
 
