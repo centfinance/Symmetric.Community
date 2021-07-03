@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="ReDoc logo" src="https://raw.githubusercontent.com/centfinance/Community/main/media-pack/logo.png" width="400px" />
+  <img alt="ReDoc logo" src="https://raw.githubusercontent.com/centfinance/Community/main/media-pack/symmetric_logo_256.png" />
 
 </div>
 
@@ -26,15 +26,15 @@ We welcome builders, creators, hackers, writers and contributors of all kinds.
 
 ## How to Contribute
 
--  **Contribute code** - all Cent software is open source, so send us pull requests if you have any suggestions for ways the software can be improved
+-  **Contribute code** - all Symmetric software is open source, so send us pull requests if you have any suggestions for ways the software can be improved
 
--  **Help with software testing** - we really appreciate and value our testers, and encourage people who want to support Cent to run the software and file issues in the appropriate repository for any bugs that are found.
+-  **Help with software testing** - we really appreciate and value our testers, and encourage people who want to support Symmetric to run the software and file issues in the appropriate repository for any bugs that are found.
 
--  **Improve the documentation** - we can never have enough documentation so if there's anything you'd like to clarify or add, just fork any of the Cent repos, start writing and expanding on the docs, and submit a pull request
+-  **Improve the documentation** - we can never have enough documentation so if there's anything you'd like to clarify or add, just fork any of the Symmetric repos, start writing and expanding on the docs, and submit a pull request
 
--  **Organize community events** - we welcome anyone interested in putting together anything as simple as a meetup at a local library or community center to discuss the latest Cent developments and applications with like-minded people from your area
+-  **Organize community events** - we welcome anyone interested in putting together anything as simple as a meetup at a local library or community center to discuss the latest Symmetric developments and applications with like-minded people from your area
 
--  **Produce and share content** - if you have ideas or insights about Cent, write a post and share it on Medium.
+-  **Produce and share content** - if you have ideas or insights about Symmetric, write a post and share it on Medium.
 
 ## Contributing Guidelines
 
@@ -44,10 +44,10 @@ You should refer to the specific project repositories contributing guide, which 
 
 ## Swag
 
-Interested in showing your support for Cent?  Tweet us [@Cent_Finance](https://twitter.com/Cent_Finance).
+Interested in showing your support for Symmetric?  Tweet us [@0xSymmetric](https://twitter.com/0xsymmetric).
 
 ## Stay informed and engaged!
 
-- [Discord](https://discord.gg/bSXwRHd)
-- [Twitter](https://twitter.com/Cent_Finance)
+- [Discord](https://discord.gg/s6Yktt7yXk)
+- [Twitter](https://twitter.com/0xsymmetric)
 
